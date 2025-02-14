@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm _YLong</h1>
-<h3 align="center">A backend developer</h3>
-<p align="center">
+<h1 align="left">Hi 👋, I'm _YLong</h1>
+<h3 align="left">A backend developer</h3>
+<p align="left">
 <img src="https://komarev.com/ghpvc/?username=bitzo&label=Profile%20views&color=0e75b6&style=flat" alt="views" align="center" />
 <img src="https://img.shields.io/github/followers/bitzo?style=flat&color=238636" alt="GitHub followers" align="center" />
 <img src="https://img.shields.io/github/stars/bitzo?style=flat&color=f85149" alt="GitHub User's stars" align="center" />
@@ -14,7 +14,7 @@
 
 <h3 align="left">⚒️ Languages and Tools</h3>
 
-![bitzo](https://github-readme-stats.vercel.app/api/top-langs?username=bitzo&show_icons=true&locale=en&layout=compact)
+![bitzo](https://github-readme-stats.vercel.app/api/top-langs?username=bitzo&show_icons=true&locale=en&layout=compact&theme=dracula)
 
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
@@ -34,4 +34,4 @@
 
 <h3 align="left">❤️ GitHub Stats</h3>
 
-![bitzo](https://github-readme-stats.vercel.app/api?username=bitzo&show_icons=true&locale=en)
+![bitzo](https://github-readme-stats.vercel.app/api?username=bitzo&theme=dracula&show_icons=true&locale=en&hide_rank=true)
